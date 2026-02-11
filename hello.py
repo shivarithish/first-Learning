@@ -1,9 +1,17 @@
-print("hello is given by deepan")
-mark=100
-if mark>70:
-    print("passed in the test")
-elif mark<50:
-    print("failed in the test")
-    print("lesser mark")
+
+print("hello is given by shiva")
+name = input("enter ur name:")
+age = int(input("enter a ur age:"))
+if age>18:
+    print("eligible for voting")
+elif age==18:
+    print("apply for voter id")
+elif age<60:
+    print("update ur voter id")
+
 else:
-    print("absent for the test")
+    print("not eligible for voting")
+num1=int(input("enter a number:"))
+num2=int(input("enter a number:"))
+add=num1+num2
+print(add)
