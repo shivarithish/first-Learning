@@ -11,7 +11,13 @@ elif age<60:
 
 else:
     print("not eligible for voting")
+
+print("ARITHMETIC OPERATOR")
 num1=int(input("enter a number:"))
 num2=int(input("enter a number:"))
 add=num1+num2
 print(add)
+sub=num1-num2
+print(sub)
+multi=num1*num2
+print(multi)
