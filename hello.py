@@ -1,8 +1,9 @@
-print("hello is given by shiva")
-age=12
-if age>18:
-    print("eligible for voting")
-elif age=18:
-    print("apply for voter id")
+print("hello is given by deepan")
+mark=100
+if mark>70:
+    print("passed in the test")
+elif mark<50:
+    print("failed in the test")
+    print("lesser mark")
 else:
-    print("not eligible for voter id")
+    print("absent for the test")
