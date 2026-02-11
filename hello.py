@@ -9,3 +9,4 @@ elif age<60:
 
 else:
     print("not eligible for voting")
+print("shiva rithish")
